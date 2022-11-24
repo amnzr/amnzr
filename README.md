@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amnzr (Aman)
-- 👀 I’m interested in Visualization! I am crazy about it and enthusiastic about iunteractive plottings. 
-- 🌱 I’m currently learning Singularity, Nextflow, ML, ... 
-- 💞️ In the future, I’m looking to collaborate on biological dataviz
+- 👀 I’m interested in Visualization! I am crazy about it and enthusiastic about interactive plottings. 
+- 🌱 I’m planning on learning Singularity, Nextflow, ML, ... 
+- 💞️ In the future, I’m looking to collaborate on biological dataviz (from new ideas to final touches)
 - 📫 How to reach me: my current work address: aman.zare@umu.se
 
 <!---
